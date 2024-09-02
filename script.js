@@ -1,5 +1,5 @@
 const jokes = [
-    "Teri aankhon ka jaadu, mere dil ko bhaaye,Teri muskaan ki khushboo, mere khwaabon mein samaaye.”,
+    "Teri aankhon ka jaadu, mere dil ko bhaaye,Teri muskaan ki khushboo, mere khwaabon mein samaaye.",
     "Ek tera naam rahe Zubaan per ,Jaise chand rehta hai Asmaan per.",
     "Meri Duniya Hai Waha Tak ,Tera Sath Hai Jaha Tak.",
     "Mat Pooch Mere Dil Ko Kya Ho Gaya ,Tujhe Dekhte Hi Tera Ho Gaya",
