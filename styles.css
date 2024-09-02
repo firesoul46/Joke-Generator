@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: laugh.jpg('images/background.jpg') no-repeat center center fixed;
+    background: laugh.jpg;
     background-size: cover;
     color: #333;
     overflow: hidden;
