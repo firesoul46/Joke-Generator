@@ -5,8 +5,8 @@ const jokes = [
     "What do you call fake spaghetti? An impasta!",
     "Why did the bicycle fall over? It was two-tired!",
     "Why don't eggs tell jokes? Because they'd crack each other up!",
-    "I told my wife she was drawing her eyebrows too high. She looked surprised."
-    "Why don't oysters donate to charity? Because they're shellfish."
+    "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "Why don't oysters donate to charity? Because they're shellfish.",
     "What does a baby computer call its father? Data."
 ];
 
