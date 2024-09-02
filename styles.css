@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: C:\Users\SyedAsif`\OneDrive - OmneNest Technologies Pvt Ltd\Desktop\JOKE\laugh.jpg('path-to-your-image.jpg') no-repeat center center fixed; 
+    background-size: cover; /* Ensures the image covers the whole page */
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Softer shadow */
+    border: 2px solid #4fc3f7; /* Blue border */
+}
+
+h1 {
+    color: #00796b; /* Teal color for the heading */
+}
+
+button {
+    background-color: #00796b; /* Teal button background */
+    color: #ffffff; /* White text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+button:hover {
+    background-color: #004d40; /* Darker teal on hover */
+}
+
+#jokeDisplay {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333333; /* Dark gray text color for the joke */
+}
