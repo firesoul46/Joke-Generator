@@ -7,7 +7,10 @@ const jokes = [
     "Why don't eggs tell jokes? Because they'd crack each other up!",
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
     "Why don't oysters donate to charity? Because they're shellfish.",
-    "What does a baby computer call its father? Data."
+    "What does a baby computer call its father? Data.",
+    "What did Seher say to the sun every morning?I wake up early just to Seher-rise!",
+    "How does Seher stay cool in a heatwave? By being Seher-iously chill!",
+    "Seher’s so bright, she makes the sun look like a nightlight."
 ];
 
 function generateJoke() {
