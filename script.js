@@ -1,16 +1,17 @@
 const jokes = [
-    "Why don't scientists trust atoms? Because they make up everything!",
-    "Why did the scarecrow win an award? Because he was outstanding in his field!",
-    "Why don't skeletons fight each other? They don't have the guts.",
-    "What do you call fake spaghetti? An impasta!",
-    "Why did the bicycle fall over? It was two-tired!",
-    "Why don't eggs tell jokes? Because they'd crack each other up!",
-    "I told my wife she was drawing her eyebrows too high. She looked surprised.",
-    "Why don't oysters donate to charity? Because they're shellfish.",
-    "What does a baby computer call its father? Data.",
-    "Seher’s so bright, she makes the sun look like a nightlight.",
-    "Seher’s so cool, even ice cubes ask her for tips.",
-    "Seher’s WiFi signal is so strong, it can connect to other galaxies."
+    "Teri aankhon ka jaadu, mere dil ko bhaaye,Teri muskaan ki khushboo, mere khwaabon mein samaaye.”,
+    "Ek tera naam rahe Zubaan per ,Jaise chand rehta hai Asmaan per.",
+    "Meri Duniya Hai Waha Tak ,Tera Sath Hai Jaha Tak.",
+    "Mat Pooch Mere Dil Ko Kya Ho Gaya ,Tujhe Dekhte Hi Tera Ho Gaya",
+    "Ek Tu Hi Hai Aadat Meri ,Is Dil Ko Hai Zaroorat Teri",
+    "Life is God’s novel.Let him write it.",
+    "Life isn't about finding yourself. Life is about creating yourself.",
+    "Woh Bewafa Hai To Kya Hua Mat Bura Kaho Usko; Tum Mujhsey Set Ho Jaao Daffaa Karo Usko.",
+    "Ajeeb Hai Aadat aur Gajab Hai Fitrat ,Mohabbat Ho Ya Nafrat Ho ,Badi Shiddat Se Karten Hain",
+    "Kehne Lagi Hai Meri Tanhaai Mujhse ,Mujhse Hi Kar Lo Muhabbat Me To Be-Wafaa Nahi",
+    "suno naa .Har roz rula dete ho ,kya mere dard se dard nahi hota tumhe?",
+    "Shaam Hote Hi Chiragon Ko Bujha Deta Hoon ,Yeh Dil Hi Kaafi Hai Teri Yaad Main Jalne Ke Liye.",
+    "Broken heart's are the strongest,Because no one can break it again."
 ];
 
 function generateJoke() {
