@@ -8,8 +8,6 @@ const jokes = [
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
     "Why don't oysters donate to charity? Because they're shellfish.",
     "What does a baby computer call its father? Data.",
-    "What did Seher say to the sun every morning?I wake up early just to Seher-rise!",
-    "How does Seher stay cool in a heatwave? By being Seher-iously chill!",
     "Seher’s so bright, she makes the sun look like a nightlight.",
     "Seher’s so cool, even ice cubes ask her for tips.",
     "Seher’s WiFi signal is so strong, it can connect to other galaxies."
