@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: url('images/background.jpg') no-repeat center center fixed;
+    background: laugh.jpg('images/background.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
