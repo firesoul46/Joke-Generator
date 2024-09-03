@@ -31,5 +31,4 @@ function generateJoke() {
     // Remove the class after the animation duration
     setTimeout(() => {
         document.body.classList.remove('change-background');
-    }, 10000); // 10 seconds, match with the duration of the animation
-}
+    }, 
