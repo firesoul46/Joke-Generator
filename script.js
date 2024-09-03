@@ -11,7 +11,7 @@ const jokes = [
     "Tum the Tum ho Hamesha tumhech rehtin ,No matter what !!!",
     "Jasoosi nai vo deewangi vo !!!",
     "You know me i dont give up early",
-    "Tumhare khushi ke age kya be nai "'
+    "Tumhare khushi ke age kya be nai ",
     "Dooooooooooorrrrrr se Pyar kartun tumna mlm b nai hona ",
     "This website is just for you meri jaan",
     "Trying to express some of my feelings ",
@@ -29,9 +29,7 @@ const jokes = [
     "Tumhe ❤️,Tumhari Khushi 😊, Your health matter's",
     "Meri yaad ayi to khudka Khayal rakho ",
     "Tumhe meri Soch ,Koi tumhe soche kyun? Tum meri Chahat ho ,Koi tumhe chahe kyun? Tum meri dua ho ,Koi tumhe mange kyun?",
-    "Dil tu Jaan tu Dard ki dawa tu Jab tak me jina mere jine ki wajah tu ❤️",
-    
-      
+    "Dil tu Jaan tu Dard ki dawa tu Jab tak me jina mere jine ki wajah tu ❤️",    
     "Shaam Hote Hi Chiragon Ko Bujha Deta Hoon ,Yeh Dil Hi Kaafi Hai Teri Yaad Main Jalne Ke Liye."
 ];
 
