@@ -15,7 +15,7 @@ const jokes = [
 ];
 
 const colors = [
-    'red', 'blue', 'green', 'purple', 'yellow', 'neon', 'lime', 'black', 'skyblue', 'navyblue'
+    'red', 'blue', 'green', 'purple', 'yellow', 'lime', 'black', 'skyblue', 'navyblue'
 ];
 
 let currentColorIndex = 0;
@@ -31,7 +31,7 @@ function generateJoke() {
         jokeElement.classList.remove('fadeIn');
     }, 1000);
 
-    // Change the background color
+    // Change the background color instantly
     document.body.style.backgroundColor = colors[currentColorIndex];
     
     // Update color index for the next click
