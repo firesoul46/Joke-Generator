@@ -30,6 +30,9 @@ const jokes = [
     "Meri yaad aayi to khud ka khayal rakho.",
     "Tumhe meri soch, koi tumhe soche kyun? Tum meri chahat ho, koi tumhe chahe kyun? Tum meri dua ho, koi tumhe maange kyun?",
     "Dil tu, Jaan tu, Dard ki dawa tu, Jab tak main jeena, mere jeene ki wajah tu ❤️.",
+    "Dont replace me 😶Just teach me how to the person you want 😉",
+    "Aaa mujhme basja aise kahi tu ,Ke jane ka na ho rasta nahi ",
+    "I will never ever stop loving you in this life ,even if you decide to not to be mine ",
     "Shaam hote hi chiragon ko bujha deta hoon, yeh dil hi kaafi hai teri yaad mein jalne ke liye."
 ];
 
