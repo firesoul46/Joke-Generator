@@ -23,7 +23,7 @@ const jokes = [
     "Suno naa. Har roz rula dete ho, kya mere dard se dard nahi hota tumhe?",
     "Kitni yaad aa rahi hai maloom tumhari 😶.",
     "May this distance get killed soon or else me 🙃.",
-    "Mai tumhe baddua nahi diya, ghusse mein bol diya, but dil se how much praying Allah knows.",
+    "Mai tumna baddua kabbi nai diya, ghusse mein bolya rahinga, but dil se how much praying for you Allah knows.",
     "I can never think anything wrong about you, you know better ghusse mein ekich i say, vo bhi just to show I'm angry at you.",
     "Thank you for making my life beautiful ❤️.",
     "Tumhe ❤️, Tumhari Khushi 😊, Your health matters.",
