@@ -14,6 +14,12 @@ const jokes = [
     "Broken heart's are the strongest,Because no one can break it again."
 ];
 
+const colors = [
+    'red', 'blue', 'green', 'purple', 'yellow', 'neon', 'lime', 'black', 'skyblue', 'navyblue'
+];
+
+let currentColorIndex = 0;
+
 function generateJoke() {
     const jokeElement = document.getElementById('joke');
     const randomIndex = Math.floor(Math.random() * jokes.length);
@@ -25,11 +31,9 @@ function generateJoke() {
         jokeElement.classList.remove('fadeIn');
     }, 1000);
 
-    // Change the background color with animation
-    document.body.classList.add('change-background');
-
-    // Remove the class after the animation duration
-    setTimeout(() => {
-        document.body.classList.remove('change-background');
-    }, 10000); // Match with the duration of the animation
+    // Change the background color
+    document.body.style.backgroundColor = colors[currentColorIndex];
+    
+    // Update color index for the next click
+    currentColorIndex = (currentColorIndex + 1) % colors.length;
 }
