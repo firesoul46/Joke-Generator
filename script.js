@@ -24,4 +24,12 @@ function generateJoke() {
     setTimeout(() => {
         jokeElement.classList.remove('fadeIn');
     }, 1000);
+
+    // Change the background color with animation
+    document.body.classList.add('change-background');
+
+    // Remove the class after the animation duration
+    setTimeout(() => {
+        document.body.classList.remove('change-background');
+    }, 10000); // 10 seconds, match with the duration of the animation
 }
