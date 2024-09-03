@@ -19,7 +19,7 @@ const jokes = [
     "Chahun tumhe jaise koi bacha khilona chahe.",
     "Betu literally, Hang over teri baton ka, Hang over teri yadoon ka hogaye",
     "Tumhare piche ata ni mai, Ab sirf Allah se mangta so dekhinge tumhe kaisa mere kane wapas ate ni 😉.",
-    "Malum mai chutiya karke kya mile bakrun ider b.",
+    "Malum mai chutiya karko, kya mile bakrun ider b.",
     "Suno naa. Har roz rula dete ho, kya mere dard se dard nahi hota tumhe?",
     "Kitni yaad aa rahi hai maloom tumhari 😶.",
     "May this distance get killed soon or else me 🙃.",
