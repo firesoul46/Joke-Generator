@@ -10,7 +10,7 @@ const jokes = [
     "Your my therapist",
     "Tum the Tum ho Hamesha tumhech rehtin ,No matter what !!!",
     "Jasoosi nai vo deewangi vo !!!",
-    "You know me i dont give up early ;)",
+    "You know me i dont give up early",
     "Tumhare khushi ke age kya be nai "'
     "Dooooooooooorrrrrr se Pyar kartun tumna mlm b nai hona ",
     "This website is just for you meri jaan",
